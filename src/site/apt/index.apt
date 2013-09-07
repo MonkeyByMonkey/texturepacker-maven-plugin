@@ -1,0 +1,6 @@
+Hello!
+
+  <<Textures are nice, packing them even more so! LibGDX is awesome, TexturePacker is awesome, Maven is... ok, I guess. That is it!>>
+
+  This Maven plugin integrates texture packing into your project's lifecycle using LibGDX's TexturePacker2. It's still work in 
+  progress.

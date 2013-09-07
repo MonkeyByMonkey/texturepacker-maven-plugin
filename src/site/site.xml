@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<project name="${project.name}" xmlns="http://maven.apache.org/DECORATION/1.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/DECORATION/1.0.0 http://maven.apache.org/xsd/decoration-1.0.0.xsd">
+
+  <skin>
+    <groupId>lt.velykis.maven.skins</groupId>
+    <artifactId>reflow-maven-skin</artifactId>
+    <version>1.0.0</version>
+  </skin>
+
+  <custom>
+    <reflowSkin>
+      <theme>bootswatch-cerulean</theme>
+      <skinAttribution>false</skinAttribution>
+      <protocolRelativeURLs>true</protocolRelativeURLs>
+
+      <brand>
+        <name>${project.name}</name>
+        <href>http://monkeybymonkey.org/texturepacker-maven-plugin</href>
+      </brand>
+    </reflowSkin>
+  </custom>
+
+  <body>
+    <links>
+      <item name="Download" href="plugin-info.html#Usage" />
+      <item name="Configuration" href="pack-mojo.html" />
+      <item name="Source" href="http://github.com/MonkeyByMonkey/texturepacker-maven-plugin" />
+    </links>
+
+    <breadcrumbs>
+      <item name="${project.name}" href="/" />
+    </breadcrumbs>
+  </body>
+
+</project>
