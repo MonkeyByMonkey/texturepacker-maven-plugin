@@ -4,7 +4,7 @@
 
   <groupId>pm.monkey.maven.plugins.texturepacker</groupId>
   <artifactId>texturepacker-maven-plugin</artifactId>
-  <version>0.1.0-SNAPSHOT</version>
+  <version>1.0-SNAPSHOT</version>
   <packaging>maven-plugin</packaging>
 
   <name>LibGDX TexturePacker Maven Plugin</name>
@@ -38,7 +38,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <github.global.server>github</github.global.server>
-    <gdx.version>0.9.9-SNAPSHOT</gdx.version>
+    <gdx.version>1.0-SNAPSHOT</gdx.version>
   </properties>
 
   <repositories>
