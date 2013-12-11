@@ -1,4 +1,4 @@
-[![Build Status](https://monkeybymonkey.ci.cloudbees.com/buildStatus/icon?job=texturepacker-maven-plugin)](https://monkeybymonkey.ci.cloudbees.com/job/texturepacker-maven-plugin/)
+[![Build Status](https://ci.protomou.se:443/buildStatus/icon?job=texturepacker-maven-plugin)](https://ci.protomou.se:443/job/texturepacker-maven-plugin/)
 
 # texturepacker-maven-plugin
 
